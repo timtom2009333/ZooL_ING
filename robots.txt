@@ -1,0 +1,4 @@
+User-agent: *
+Crawl-delay: 1
+Host: https://zool.netlify.app
+Sitemap: https://zool.netlify.app/sitemap.xml
